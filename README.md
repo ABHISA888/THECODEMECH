@@ -1,10 +1,10 @@
-# THECODEMECH\
+# THECODEMECH
 ## About me 👋
 
 👋 Hey there! I'm Abhinivesh a passionate computer science enthusiast with expertise in Python, c++, and web development. I'm currently learning Fullstack development and love to collabrate and network with people.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ABHISA8888.png) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ABHISA8888) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhinivesh-s-888894sa) 
 # 💻 Language and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
